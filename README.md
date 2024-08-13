@@ -8,7 +8,7 @@
 
 이것을 개선하기 위해 우리는 구술 면접에서 어느 정도의 가이드라인을 놓고 물어봤지만, 너무 광범위한 주제를 놓고 이야기하는 것이기 때문에 무언가 잘못하고 있다는 걸 깨달을 수 있었습니다. 면접에서 역량을 평가하는 건 시간과 에너지가 너무 많이 소모됩니다.
 
-그러던 와중에 [programmer-competency-matrix](http://www.indiangeek.net/programmer-competency-matrix)를 만나게 되었고, 우리는 이 평가표를 사전 인터뷰에 적용하면 더 좋지 않을까 하는 아이디어를 떠올렸습니다.
+그러던 와중에 [programmer-competency-matrix](https://sijinjoseph.com/programmer-competency-matrix/)를 만나게 되었고, 우리는 이 평가표를 사전 인터뷰에 적용하면 더 좋지 않을까 하는 아이디어를 떠올렸습니다.
 
 이 문서는 기존 역량평가표에서 크게 고쳐지지는 않았습니다만, 계속 수정해 나갈 생각입니다.
 
